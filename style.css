@@ -473,7 +473,7 @@ span{
 }
 .contact h2{
     display:inline-block;
-    left:35%;
+    left:50%;
     transform:tranlateX(-50%);
 
 }
